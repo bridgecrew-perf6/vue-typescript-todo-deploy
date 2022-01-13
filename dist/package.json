@@ -1,0 +1,10 @@
+{
+  "name": "todo523",
+  "version": "1.0.0",
+  "description": "vue-typescript-todo",
+  "author": "Awesome Author",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
